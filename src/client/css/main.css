@@ -52,6 +52,16 @@ input {
   height: 40px;
   outline: none;
   padding: 8px;
+  margin: 2px;
+}
+
+textarea {
+  border: 1px solid #106cc8;
+  font-size: 14px;
+  height: 80px;
+  outline: none;
+  padding: 8px;
+  margin: 2px;
 }
 
 button {
